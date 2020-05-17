@@ -1,10 +1,17 @@
 # Flask Web Application Development
-
-References: 
+## Environments
+- Development Environment: notebooks.ai
+- Production Environment: pythonanywhere.com
+- Source Code Repository: GitHub (this repo)
+## Components
+- Flask
+- sqlite3
+- flask_sqlalchemy
+## References: 
 - http://zetcode.com/python/flask/
 - https://www.twilio.com/blog/how-run-flask-application
 - https://smallbusiness.chron.com/use-sqlite-ubuntu-46774.html
-
+## Steps
 1. To install flask
 
 `$pip install -U Flask`
@@ -22,13 +29,13 @@ flask_sqlapchemy
 ```
 `$install -r requirements.txt`
 
-3. to Run flask
+4. to Run flask
 
 - `$export FLASK_APP="/app/webapps/hello/hello.py"`
 
 - `$flask run`
 
-# sqlite3 on Ubuntu 
+## sqlite3 on Ubuntu 
 
 1. How to install sqlite3 on ubuntu?
 
