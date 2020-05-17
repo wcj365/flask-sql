@@ -65,4 +65,12 @@ or
 `$sqlite3` then `sqlite>.open dbname.db`
 
 
-
+## Installation
+1. on Windows, open git bash shell
+2. `$ssh das10`
+3. `$cd pythonwork`
+4. `$git clone https://github.com/wcj365/flask-sql.git`
+5. `$cd flask-sql`
+6. `$python3 -m venv venv`
+7. `$source venv/bin/activate`
+8. `(venv)$pip install -r requirements.txt`
