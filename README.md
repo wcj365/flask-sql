@@ -9,6 +9,7 @@
 - sqlite3
 - flask_sqlalchemy
 ## References: 
+- https://www.cs.rochester.edu/u/bdicken3/csc210/
 - https://www.cs.rochester.edu/u/bdicken3/csc210/slides/Lecture_07_Introduction_to_Flask.pdf
 - http://zetcode.com/python/flask/
 - https://www.twilio.com/blog/how-run-flask-application
