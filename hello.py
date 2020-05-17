@@ -8,6 +8,7 @@ app = Flask(__name__)
 
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data/test.db'
+#app.config['SERVER_NAME'] = '0.0.0.0:8080'
 
 db = SQLAlchemy(app)
 
