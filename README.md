@@ -1,15 +1,26 @@
-# Flask Tutorial
+# Flask Web Application Development
 
-Source: http://zetcode.com/python/flask/
+References: 
+- http://zetcode.com/python/flask/
+- https://www.twilio.com/blog/how-run-flask-application
+- https://smallbusiness.chron.com/use-sqlite-ubuntu-46774.html
 
 1. To install flask
 
-`$pip install -U flask`
+`$pip install -U Flask`
 
 2. To install -U flask_sqlalchemy
 
 - `$pip install -U flask_sqlalchemy`
 - "-U" = "--updates"
+
+3. To combine 1 and 2 into a single requirements.txt file
+The requirements.txt file contains two simple lines:
+```
+flask
+flask_sqlapchemy
+```
+`$install -r requirements.txt`
 
 3. to Run flask
 
@@ -18,8 +29,6 @@ Source: http://zetcode.com/python/flask/
 - `$flask run`
 
 # sqlite3 on Ubuntu 
-
-Source: https://smallbusiness.chron.com/use-sqlite-ubuntu-46774.html
 
 1. How to install sqlite3 on ubuntu?
 
