@@ -9,11 +9,15 @@
 - sqlite3
 - flask_sqlalchemy
 ## References: 
+- https://hackersandslackers.com/author/todd/
+- https://hackersandslackers.com/series/building-flask-apps/
 - https://www.cs.rochester.edu/u/bdicken3/csc210/
 - https://www.cs.rochester.edu/u/bdicken3/csc210/slides/Lecture_07_Introduction_to_Flask.pdf
 - http://zetcode.com/python/flask/
 - https://www.twilio.com/blog/how-run-flask-application
 - https://smallbusiness.chron.com/use-sqlite-ubuntu-46774.html
+- https://help.pythonanywhere.com/pages/Flask/
+- 
 ## Steps
 1. To install flask
 
